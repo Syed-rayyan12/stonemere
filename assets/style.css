@@ -31,7 +31,7 @@ header{background:rgba(255,253,249,.97);border-bottom:1px solid var(--line);posi
 .hero{min-height:650px;display:flex;align-items:center;background:
 linear-gradient(90deg,rgba(8,31,26,.88),rgba(8,31,26,.44),rgba(8,31,26,.05)),
 url('https://images.unsplash.com/photo-1517840901100-8179e982acb7?auto=format&fit=crop&w=1800&q=85') center/cover}
-.hero-inner{padding:110px 0;color:#fff;max-width:700px}
+.hero-inner{padding:110px 0;color:#fff;}
 .hero h1{color:#fff;max-width:680px}
 .hero p{max-width:620px;font-size:16px;color:rgba(255,255,255,.86);margin:24px 0 30px}
 .hero .eyebrow{color:#e3c99a}
